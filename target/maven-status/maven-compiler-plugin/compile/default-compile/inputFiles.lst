@@ -1,0 +1,8 @@
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/sales-service/src/main/java/com/ironhack/erp/salesservice/model/entities/Sale.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/sales-service/src/main/java/com/ironhack/erp/salesservice/SalesServiceApplication.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/sales-service/src/main/java/com/ironhack/erp/salesservice/config/MongoDBConfig.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/sales-service/src/main/java/com/ironhack/erp/salesservice/controller/interfaces/SalesControllerInterface.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/sales-service/src/main/java/com/ironhack/erp/salesservice/exception/SaleNotFoundException.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/sales-service/src/main/java/com/ironhack/erp/salesservice/controller/impl/SalesControllerImpl.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/sales-service/src/main/java/com/ironhack/erp/salesservice/service/SalesService.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/sales-service/src/main/java/com/ironhack/erp/salesservice/repository/SalesRepository.java
